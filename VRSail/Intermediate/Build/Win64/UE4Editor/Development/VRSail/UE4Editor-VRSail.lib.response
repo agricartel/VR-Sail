@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRSail.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\darkc\Documents\Unreal Projects\VR-Sail\VRSail\Intermediate\Build\Win64\VRSailEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\darkc\Documents\Unreal Projects\VR-Sail\VRSail\Intermediate\Build\Win64\UE4Editor\Development\VRSail\EmptyClassToGenerateSolution.cpp.obj"
+"C:\Users\darkc\Documents\Unreal Projects\VR-Sail\VRSail\Intermediate\Build\Win64\UE4Editor\Development\VRSail\VRSail.cpp.obj"
+"C:\Users\darkc\Documents\Unreal Projects\VR-Sail\VRSail\Intermediate\Build\Win64\UE4Editor\Development\VRSail\Default.rc2.res"
+/OUT:"C:\Users\darkc\Documents\Unreal Projects\VR-Sail\VRSail\Intermediate\Build\Win64\UE4Editor\Development\VRSail\UE4Editor-VRSail.lib"

@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Source\\VRSail\\VRSail.Build.cs",
+		"C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Plugins\\VRExpansionPlugin-Master\\OpenVRExpansionPlugin\\Source\\OpenVRExpansionPlugin\\OpenVRExpansionPlugin.Build.cs",
+		"C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Plugins\\VRExpansionPlugin-Master\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionEditor\\OpenXRExpansionEditor.Build.cs",
+		"C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Plugins\\VRExpansionPlugin-Master\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionPlugin\\OpenXRExpansionPlugin.Build.cs",
+		"C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Plugins\\VRExpansionPlugin-Master\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
+		"C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Plugins\\VRExpansionPlugin-Master\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs",
+		"C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Source\\VRSail.Target.cs",
+		"C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Source\\VRSailEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}
