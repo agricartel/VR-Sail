@@ -1036,3 +1036,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.09.24-14.12.57:361][374]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
 [2021.09.24-14.13.21:342][114]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.09.24-14.13.30:352][684]Cmd: SELECT NONE
+[2021.09.24-14.22.18:019][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.09.24-14.22.19:687][798]LogSavePackage: Moving '../../../../../../Users/darkc/Documents/Unreal Projects/VR-Sail/VRSail/Saved/VRTemplateMap_Auto15A1CCFB246F6AEA4926633A991CB2B87.tmp' to '../../../../../../Users/darkc/Documents/Unreal Projects/VR-Sail/VRSail/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2021.09.24-14.22.19:696][798]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 1.685
+[2021.09.24-14.22.19:696][798]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.685
