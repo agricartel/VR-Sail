@@ -1,0 +1,2 @@
+C:\Users\darkc\Documents\Unreal Projects\VR-Sail\VRSail\Intermediate\Build\Win64\UE4Editor\Development\VRSail\Definitions.VRSail.h
+C:\Users\darkc\Documents\Unreal Projects\VR-Sail\VRSail\Source\VRSail\VRSail.h

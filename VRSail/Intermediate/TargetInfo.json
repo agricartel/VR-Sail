@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VRSail",
+			"Path": "C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Source\\VRSail.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VRSailEditor",
+			"Path": "C:\\Users\\darkc\\Documents\\Unreal Projects\\VR-Sail\\VRSail\\Source\\VRSailEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
